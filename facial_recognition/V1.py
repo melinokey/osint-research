@@ -40,7 +40,7 @@ if not encodage_image_1:
 encodage_visage_im1 = [encodage_image_1[0]]
 
 #Donner un nom au visage
-pers = input("Qui est-ce ? ")
+pers = input("Qui est-ce ? ").title
 nom_visage = [pers]
 
 #Image à comparer
@@ -79,4 +79,5 @@ else:
     print(f"Tu apparais {compteur} fois sur la photo !")
        
 photo.show()
+
 
