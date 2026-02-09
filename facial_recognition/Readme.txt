@@ -1,0 +1,2 @@
+Du coup j'ai pas fait de grandes avancé sur mon code simplement il est beaucoup plus fluide puisque maintennat on demande pas le fichier exact et on le cherche sur l'ordi mais on ouvre directement l'explorateur avec
+tkinter. Je sais pas si ça marche avec mac et linux je verrais plus tard. J'ai essayé de le rendre plus lisible et de le commenter rapidos donc voilà. 
